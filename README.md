@@ -24,6 +24,15 @@ To start the webpack server.
 
 The site will be accessible at http://localhost:8080.
 
+## Task List
+- ✅ Task A
+- ✅ Task B
+- 🔲 Task C
+- 🔲 Task D
+- 🔲 Task E
+
+
+
 ## Technologies Used
 
 Currently we are using:
