@@ -24,6 +24,10 @@ Currently we are using:
   ### Bundled With
   - [Webpack](https://webpack.js.org/concepts/)
 
+  ### Recommended Plugins VSCode
+  - stylelint stylelint.vscode-stylelint
+  - Tailwind CSS IntelliSense bradlc.vscode-tailwindcss
+
 ## Style Guide
 
   I'm not firmly set on any rules just yet, but here are some of what I gather to be best practices atm. I think we should get this together before we go too much further just to get everyone on the same page.
