@@ -4,6 +4,26 @@
 
 This is a group project to make a regex test site. Current team is Alex, Dustin, & Nick.
 
+## Getting Started
+
+This project runs an Express server at Port 4200 on your localhost and a webpack-dev-server at Port 8080.
+
+To get started first clone the repository.
+
+Then run 
+```npm install```
+To install all of the dependencies.
+
+Then, run
+```npm run start```
+To start the express server.
+
+And finally, run
+```npm run start-dev```
+To start the webpack server.
+
+The site will be accessible at http://localhost:8080.
+
 ## Technologies Used
 
 Currently we are using:
