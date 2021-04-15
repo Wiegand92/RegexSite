@@ -1,0 +1,13 @@
+.app{
+  @apply align-middle justify-around text-green-800;
+
+  h1{
+    @apply text-center mt-80 text-6xl ;
+  }
+  p{
+    @apply text-center;
+  }
+  a{
+    @apply text-blue-800;
+  }
+}
