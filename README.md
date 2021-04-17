@@ -25,11 +25,26 @@ To start the webpack server.
 The site will be accessible at http://localhost:8080.
 
 ## Task List
-- ✅ Task A
-- ✅ Task B
-- 🔲 Task C
-- 🔲 Task D
-- 🔲 Task E
+
+## Styles
+
+- [ ] Colors
+- [ ] Font
+- [ ] Layout
+- [ ] Wireframe
+
+## Tech
+
+### App
+- [ ] SPA or multiple routes? (Should we get rid of express?)
+- [ ] App architecture
+
+### Other
+- [ ] Bundling
+- [ ] Trim down tailwind bundle?
+- [ ] Any other techs?
+
+## Build!
 
 
 
