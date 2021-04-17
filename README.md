@@ -24,6 +24,10 @@ To start the webpack server.
 
 The site will be accessible at http://localhost:8080.
 
+## Project outline
+
+Available here https://drive.google.com/file/d/19oFzO9-SvtEv1N_RHNNPJ51FY80rnXOo/view?usp=sharing
+
 ## Task List
 
 ## Styles
